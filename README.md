@@ -5,21 +5,21 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/anafts/Santander-Coders-2022?style=for-the-badge)
 
 
-## 
+## 💻 Descrição
  Exercícios do curso introdutório de Java, no IntelliJ IDEA, da Let's Code para o projeto Santander coders 2022
  
-#
 
 
-## 🛠️ Technologies: 
+
+## 🛠️ Tecnologias:
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
 
 
-# 
 
-## 📚 Learning
+
+## 📚 Aprendizagem
 
 O pomo bot foi a primeira landing page que desenvolvi, com o projeto aprendi 
 - Operadores
@@ -29,7 +29,6 @@ O pomo bot foi a primeira landing page que desenvolvi, com o projeto aprendi
 - Manipulação de dados
 - Array
 
-#
 
 
 
